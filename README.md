@@ -12,5 +12,6 @@ docker run -it -p 5000:5000 wmt-puneet-girdhar-file-metadata:0.0.1
 
 ## check the file interview.csv
 docker exec -it wmt-puneet-girdhar-file-metadata:0.0.1 bash
+
 ls /app
 
